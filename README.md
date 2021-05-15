@@ -2,23 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) Angular: 12.0.0 and Node: 12.18.3.
 
-----------------------------------------------------
+--------------------------------------------------------------
 
-<img src="/screenshots/Angular v12.jpg" />
+<img src="/screenshots/Angular v12.jpg" width="1000" />
 
-----------------------------------------------------
+---------------------------------------------------------------
 
-<img src="/screenshots/Angular v12 ng v.JPG" />
+<img src="/screenshots/Angular v12 ng v.JPG" width="1000" />
 
-----------------------------------------------------
+----------------------------------------------------------------
 
-<img src="/screenshots/Angular v12 ng serve.JPG" />
+<img src="/screenshots/Angular v12 ng serve.JPG" width="1000" />
 
-----------------------------------------------------
+----------------------------------------------------------------
 
-<img src="/screenshots/Angular v12 DevTools.JPG" />
+<img src="/screenshots/Angular v12 DevTools.JPG" width="1000" />
 
------------------------------------------------------
+-----------------------------------------------------------------
 
 ## Development Server
 
