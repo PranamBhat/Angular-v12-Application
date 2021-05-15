@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ----------------------------------------------------
 
-<img src="/screenshots/Angular v12.JPG" />
+<img src="/screenshots/Angular v12.jpg" />
 
 ----------------------------------------------------
 
