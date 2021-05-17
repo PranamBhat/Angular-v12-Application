@@ -16,6 +16,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ----------------------------------------------------------------
 
+<img src="/screenshots/Angular v12 localhost.JPG" width="1000" />
+
+-----------------------------------------------------------------
+
 <img src="/screenshots/Angular v12 DevTools.JPG" width="1000" />
 
 -----------------------------------------------------------------
